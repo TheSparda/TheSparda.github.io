@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /guild
+
+Sitemap: https://antarialore.com/sitemap.xml
