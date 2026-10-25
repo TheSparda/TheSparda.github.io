@@ -156,16 +156,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://antarialore.com/tier-builds/global</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://antarialore.com/tier-builds/korean</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://antarialore.com/coupons</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1677,6 +1667,11 @@
   </url>
   <url>
     <loc>https://antarialore.com/units/belzebub</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://antarialore.com/units/beta</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3481,6 +3476,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://antarialore.com/classes/anomaly</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://antarialore.com/classes/aqualance</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3492,6 +3492,11 @@
   </url>
   <url>
     <loc>https://antarialore.com/classes/arc-cannoneer</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://antarialore.com/classes/arc-executor</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4056,6 +4061,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://antarialore.com/classes/heretic</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://antarialore.com/classes/hermit-sword</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4362,6 +4372,11 @@
   </url>
   <url>
     <loc>https://antarialore.com/classes/pike</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://antarialore.com/classes/plasmatist</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6541,6 +6556,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://antarialore.com/equipment/artifact/mana-resonance-stone</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://antarialore.com/equipment/artifact/phalanx-tactics-manual</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6701,6 +6721,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://antarialore.com/equipment/artifact/eternal-shackles</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://antarialore.com/equipment/artifact/eye-of-the-storm</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6806,11 +6831,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://antarialore.com/equipment/artifact/mana-resonance-stone</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://antarialore.com/equipment/artifact/optimal-condition</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6892,6 +6912,11 @@
   </url>
   <url>
     <loc>https://antarialore.com/equipment/artifact/simple-protection-amulet</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://antarialore.com/equipment/artifact/simple-protection-talisman</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7032,6 +7057,11 @@
   </url>
   <url>
     <loc>https://antarialore.com/armors/devotion-of-light</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://antarialore.com/armors/dreadnought</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7196,6 +7226,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://antarialore.com/armors/va-brynhildr</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://antarialore.com/armors/valkyrie</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -7286,7 +7321,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://antarialore.com/accessories/dragon-s-emblem</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://antarialore.com/accessories/dragon-scale-greaves</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://antarialore.com/accessories/dried-rose-bud</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
