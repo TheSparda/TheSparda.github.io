@@ -1771,6 +1771,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://antarialore.com/units/katarina-medicis</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://antarialore.com/units/locarno-stanley</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3591,6 +3596,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://antarialore.com/classes/bifrost-champion</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://antarialore.com/classes/bifrost-valkyrie</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3972,6 +3982,11 @@
   </url>
   <url>
     <loc>https://antarialore.com/classes/frost-weaver</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://antarialore.com/classes/gale-fencer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4641,6 +4656,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://antarialore.com/classes/tempest-valkyrie</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://antarialore.com/classes/templar</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4672,6 +4692,11 @@
   </url>
   <url>
     <loc>https://antarialore.com/classes/valkyrie</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://antarialore.com/classes/valkyrie-commander</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6396,17 +6421,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://antarialore.com/equipment/artifact/wind-step</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://antarialore.com/equipment/artifact/meticulous-preparation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://antarialore.com/equipment/artifact/warrior-s-essence</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://antarialore.com/equipment/artifact/wind-step</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6522,6 +6547,11 @@
   </url>
   <url>
     <loc>https://antarialore.com/equipment/artifact/crystal-orb-of-insight</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://antarialore.com/equipment/artifact/elegant-breathing</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6696,11 +6726,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://antarialore.com/equipment/artifact/elegant-breathing</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://antarialore.com/equipment/artifact/elemental-mastery-dark</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6807,6 +6832,11 @@
   </url>
   <url>
     <loc>https://antarialore.com/equipment/artifact/killing-will</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://antarialore.com/equipment/artifact/laurel-crown-of-victory</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
